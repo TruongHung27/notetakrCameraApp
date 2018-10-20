@@ -18,12 +18,9 @@
             </intent-filter>
 
         </activity>
-
-<<<<<<< HEAD
     </application>
-=======
+
     <!-- Permissions -->
     <uses-feature android:name="android.hardware.camera" android:required="true" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
->>>>>>> 36cdb8b56782f4978e6393c2e2538a74961316e7
 </manifest>
