@@ -1,4 +1,4 @@
-package com.example.sairamkrishna.myapplication;
+package notetakr.notetakr;
 
 import android.Manifest;
 import android.app.Activity;
